@@ -1,4 +1,4 @@
-const reactPaths = ['domains/finance/finance-admin-react/src/**/*.{js,ts,jsx,tsx}'];
+const reactPaths = ['domains/**/*.{js,ts,jsx,tsx}'];
 const vuePaths = ['domains/finance/finance-admin-vue3/src/**/*.{js,ts,vue}'];
 const miniAppPaths = ['domains/finance/finance-wechat-app/src/**/*.{js}'];
 
