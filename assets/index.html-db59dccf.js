@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-a6754eba","path":"/react/cloud/","title":"云计算","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1678182894000,"contributors":[{"name":"TadXiao","email":"zlxiao97@yahoo.com","commits":1}]},"filePathRelative":"react/cloud/README.md"}');export{a as data};
